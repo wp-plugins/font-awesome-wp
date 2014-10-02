@@ -10,7 +10,7 @@ Here is a short description of the plugin.  This should be no more than 150 char
 
 == Description ==
 
-This plugin is used for  font awesome updated version with various styles that more user friendly.
+This plugin is used for  font awesome updated version.You can use  various fonts from font awesome using shortcodes.You can use these shortcodes in your pages,posts and widgets.You can change fonts colors,size,border color,padding,hover color,hover background and so on.
 
 == Installation ==
 
