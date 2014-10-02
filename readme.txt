@@ -14,7 +14,7 @@ This plugin is used for  font awesome updated version.You can use  various fonts
 
 ShortCodes:
 
-Font Awesome icons without link:
+<b>Font Awesome icons without link:</b>
 
 1.Default style 
 <pre>[font icon=fa-facebook] </pre>
@@ -25,7 +25,7 @@ Font Awesome icons without link:
 3.simple style
 <pre>[font icon=fa-facebook border_color=none]</pre>
 
-Font Awesome icons with link:
+<b>Font Awesome icons with link:</b>
 
 1.Default style
 <pre>[font_link icon=fa-facebook]</pre>
