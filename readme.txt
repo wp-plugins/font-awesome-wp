@@ -45,9 +45,12 @@ This section describes how to install the plugin and get it working.
 e.g.
 
 1. Upload `plugin-directory` to the `/wp-content/plugins/` directory
+
 2. Activate the plugin through the 'Plugins' menu in WordPress
-3.Use shortcode in page,post or in widgets.
-4.If you want to use this in your theme php,Place `<?php do_shortcode('YOUR_SHORTCODE'); ?>` in your templates
+
+3. Use shortcode in page,post or in widgets.
+
+4. If you want to use this in your theme php,Place `<?php do_shortcode('YOUR_SHORTCODE'); ?>` in your templates
 
 
 == Shortcodes ==
